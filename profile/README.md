@@ -1,12 +1,23 @@
-## Hi there 👋
+# ✨🌟 [ Nekupa Studio ] 🌟✨
 
-<!--
+## 👨‍💻 Who Are We ? 🤔
 
-**Here are some ideas to get you started:**
+💡 We are a group of passionate volunteers who wants to better our skills through game development.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+📱 We are based on Discord, with both a french and international server, where we offer:
+
+- 👉 Help in different domains (art, development etc...).
+- 👉 Events regarding game dev, or not.
+- 👉 Opportunities to work on real project with like-minded people.
+
+## 🔥 How To Join Us ? 🔥
+
+👋🌐 Simply go say hi on our EN discord server, we don't bite it's a promise !
+
+[Our international discord server](https://discord.gg/wzff8Px65a)
+
+## 👀 More About Us 👀
+
+🕹 You can see our released games on [itch.io](https://nekupa-studio.itch.io/)
+
+🚧 Eventually we'll have a website ! 🚧
