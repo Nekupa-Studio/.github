@@ -12,9 +12,7 @@
 
 ## 🔥 How To Join Us ? 🔥
 
-👋🌐 Simply go say hi on our EN discord server, we don't bite it's a promise !
-
-[Our international discord server](https://discord.gg/wzff8Px65a)
+👋🌐 Simply go say hi on our [EN discord server](https://discord.gg/wzff8Px65a), we don't bite it's a promise !
 
 ## 👀 More About Us 👀
 
